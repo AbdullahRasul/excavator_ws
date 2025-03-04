@@ -4,6 +4,8 @@
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/base_chassis_link.STL
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/boom_stick_link.STL
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/urdf/excavator.urdf.xacro
+/home/cvl/excavator_ws/install/excavator_description/share/excavator_description/launch/display.launch.py
+/home/cvl/excavator_ws/install/excavator_description/share/excavator_description/rviz/excavator_rviz.rviz
 /home/cvl/excavator_ws/install/excavator_description/share/ament_index/resource_index/package_run_dependencies/excavator_description
 /home/cvl/excavator_ws/install/excavator_description/share/ament_index/resource_index/parent_prefix_path/excavator_description
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/environment/ament_prefix_path.sh

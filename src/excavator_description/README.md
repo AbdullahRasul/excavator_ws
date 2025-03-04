@@ -27,6 +27,13 @@ Before running any command, make sure to source your workspace, especially if yo
 - **Fixed Frame:** Set to `base_link` in the **Global Options**.
 - **Loading Configuration:** Load the predefined RViz configuration file located in the `rviz` folder.
 
+
+### Launch file for Rviz 
+`ros2 launch excavator_description display.launch.py`
+
 ## Notes
 - Ensure all dependencies, including `xacro`, `robot_state_publisher`, and `rviz2`, are installed.
 - If using multiple terminals, always source the workspace before running commands.
+
+
+

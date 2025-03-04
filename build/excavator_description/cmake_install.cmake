@@ -46,6 +46,8 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/excavator_description" TYPE DIRECTORY FILES
     "/home/cvl/excavator_ws/src/excavator_description/meshes"
     "/home/cvl/excavator_ws/src/excavator_description/urdf"
+    "/home/cvl/excavator_ws/src/excavator_description/launch"
+    "/home/cvl/excavator_ws/src/excavator_description/rviz"
     )
 endif()
 

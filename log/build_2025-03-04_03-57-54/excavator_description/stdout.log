@@ -1,0 +1,37 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cvl/excavator_ws/build/excavator_description
+-- Install configuration: ""
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/chassis_boom_link.STL
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/stick_bucket_link.STL
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/base_link.STL
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/base_chassis_link.STL
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/boom_stick_link.STL
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/urdf
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/urdf/excavator.urdf.xacro
+-- Installing: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/launch
+-- Installing: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/launch/display.launch.py
+-- Installing: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/rviz
+-- Installing: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/rviz/excavator_rviz.rviz
+-- Installing: /home/cvl/excavator_ws/install/excavator_description/share/ament_index/resource_index/package_run_dependencies/excavator_description
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/ament_index/resource_index/parent_prefix_path/excavator_description
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/environment/ament_prefix_path.sh
+-- Installing: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/environment/path.sh
+-- Installing: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/environment/path.dsv
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/local_setup.bash
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/local_setup.sh
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/local_setup.zsh
+-- Installing: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/local_setup.dsv
+-- Installing: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/package.dsv
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/ament_index/resource_index/packages/excavator_description
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/cmake/excavator_descriptionConfig.cmake
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/cmake/excavator_descriptionConfig-version.cmake
+-- Installing: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/package.xml
