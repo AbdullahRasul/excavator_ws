@@ -1,0 +1,6 @@
+Invoking command in '/home/cvl/excavator_ws/build/excavator_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cvl/excavator_ws/src/excavator_description -DCMAKE_INSTALL_PREFIX=/home/cvl/excavator_ws/install/excavator_description
+Invoked command in '/home/cvl/excavator_ws/build/excavator_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cvl/excavator_ws/src/excavator_description -DCMAKE_INSTALL_PREFIX=/home/cvl/excavator_ws/install/excavator_description
+Invoking command in '/home/cvl/excavator_ws/build/excavator_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cvl/excavator_ws/build/excavator_description -- -j16 -l16
+Invoked command in '/home/cvl/excavator_ws/build/excavator_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cvl/excavator_ws/build/excavator_description -- -j16 -l16
+Invoking command in '/home/cvl/excavator_ws/build/excavator_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cvl/excavator_ws/build/excavator_description
+Invoked command in '/home/cvl/excavator_ws/build/excavator_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cvl/excavator_ws/build/excavator_description
