@@ -31,6 +31,9 @@ Before running any command, make sure to source your workspace, especially if yo
 ### Launch file for Rviz 
 `ros2 launch excavator_description display.launch.py`
 
+### Launch file for Gazebo 
+`ros2 launch excavator_description gazebo.launch.py`
+
 ## Notes
 - Ensure all dependencies, including `xacro`, `robot_state_publisher`, and `rviz2`, are installed.
 - If using multiple terminals, always source the workspace before running commands.
