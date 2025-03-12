@@ -1,6 +1,16 @@
 <?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="excavator">
 
-<robot name="excavator" xmlns:xacro="http://ros.org/wiki/xacro">
+    <!-- Start GZ or Ignition depending on ROS 2 Version -->
+    <xacro:arg name="is_ignition" default="true"/>
+  
+    <!-- Include Gazebo Parameters -->
+    <xacro:include filename="$(find excavator_description)/urdf/excavator_gazebo.xacro" />
+
+    <!-- Include ros2_control Plugins -->
+    <xacro:include filename="$(find excavator_description)/urdf/excavator_ros2_control.xacro" />
+
+
   <link
     name="base_link">
     <inertial>
@@ -96,8 +106,8 @@
     <limit
       lower="-3.1416"
       upper="3.1416"
-      effort="0"
-      velocity="0" />
+      effort="500000"
+      velocity="100" />
   </joint>
   <link
     name="chassis_boom_link">
@@ -154,8 +164,8 @@
     <limit
       lower="-0.5585"
       upper="1.2415"
-      effort="0"
-      velocity="0" />
+      effort="500000"
+      velocity="100" />
   </joint>
   <link
     name="boom_stick_link">
@@ -212,8 +222,8 @@
     <limit
       lower="-0.8179"
       upper="1.0821"
-      effort="0"
-      velocity="0" />
+      effort="500000"
+      velocity="100" />
   </joint>
   <link
     name="stick_bucket_link">
@@ -270,7 +280,7 @@
     <limit
       lower="-2.2689"
       upper="0"
-      effort="0"
-      velocity="0" />
+      effort="500000"
+      velocity="100" />
   </joint>
 </robot>

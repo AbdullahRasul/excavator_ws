@@ -1,0 +1,17 @@
+/home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/config/excavator_controllers.yaml
+/home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/launch/controller.launch.py
+/home/cvl/excavator_ws/install/excavator_controller/share/ament_index/resource_index/package_run_dependencies/excavator_controller
+/home/cvl/excavator_ws/install/excavator_controller/share/ament_index/resource_index/parent_prefix_path/excavator_controller
+/home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/environment/ament_prefix_path.sh
+/home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/environment/ament_prefix_path.dsv
+/home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/environment/path.sh
+/home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/environment/path.dsv
+/home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/local_setup.bash
+/home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/local_setup.sh
+/home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/local_setup.zsh
+/home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/local_setup.dsv
+/home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/package.dsv
+/home/cvl/excavator_ws/install/excavator_controller/share/ament_index/resource_index/packages/excavator_controller
+/home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/cmake/excavator_controllerConfig.cmake
+/home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/cmake/excavator_controllerConfig-version.cmake
+/home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/package.xml

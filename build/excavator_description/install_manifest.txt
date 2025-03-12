@@ -3,7 +3,9 @@
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/chassis_boom_link.STL
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/base_chassis_link.STL
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/stick_bucket_link.STL
+/home/cvl/excavator_ws/install/excavator_description/share/excavator_description/urdf/excavator_gazebo.xacro
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/urdf/excavator.urdf.xacro
+/home/cvl/excavator_ws/install/excavator_description/share/excavator_description/urdf/excavator_ros2_control.xacro
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/launch/gazebo.launch.py
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/launch/display.launch.py
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/rviz/excavator_rviz.rviz

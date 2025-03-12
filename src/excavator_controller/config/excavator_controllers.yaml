@@ -1,0 +1,36 @@
+controller_manager:
+  ros__parameters:
+    update_rate: 10  # Increased for smoother control
+
+    # Arm Controller for excavator joints
+    arm_controller:
+      type: joint_trajectory_controller/JointTrajectoryController
+
+    # Removed gripper_controller (unless needed)
+
+    joint_state_broadcaster:
+      type: joint_state_broadcaster/JointStateBroadcaster
+
+arm_controller:
+  ros__parameters:
+    joints:
+      - base_chassis_joint
+      - chassis_boom_joint
+      - boom_stick_joint
+      - stick_bucket_joint
+
+    command_interfaces:
+      - position
+
+    state_interfaces:
+      - position
+
+    gains:
+      base_chassis_joint: {p: 100.0, i: 0.1, d: 10.0}
+      chassis_boom_joint: {p: 100.0, i: 0.1, d: 10.0}
+      boom_stick_joint: {p: 100.0, i: 0.1, d: 10.0}
+      stick_bucket_joint: {p: 100.0, i: 0.1, d: 10.0}
+
+    open_loop_control: true
+    allow_integration_in_goal_trajectories: true
+
