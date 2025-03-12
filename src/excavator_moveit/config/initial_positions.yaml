@@ -1,0 +1,7 @@
+# Default initial positions for excavator's ros2_control fake system
+
+initial_positions:
+  base_chassis_joint: 0
+  chassis_boom_joint: -0.6
+  boom_stick_joint: -0.7
+  stick_bucket_joint: -2.0

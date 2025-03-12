@@ -10,12 +10,13 @@
     <!-- Include ros2_control Plugins -->
     <xacro:include filename="$(find excavator_description)/urdf/excavator_ros2_control.xacro" />
 
+  <link name="world"/>
 
   <link
     name="base_link">
     <inertial>
       <origin
-        xyz="-3.05023976636919E-16 -1.20579956142935 -0.755810436649642"
+        xyz="0 0 1.29"
         rpy="0 0 0" />
       <mass
         value="139411.733176679" />
@@ -29,7 +30,7 @@
     </inertial>
     <visual>
       <origin
-        xyz="0 0 0"
+        xyz="0 0 1.29"
         rpy="0 0 0" />
       <geometry>
         <mesh
@@ -43,7 +44,7 @@
     </visual>
     <collision>
       <origin
-        xyz="0 0 0"
+        xyz="0 0 1.29"
         rpy="0 0 0" />
       <geometry>
         <mesh
@@ -55,7 +56,7 @@
     name="base_chassis_link">
     <inertial>
       <origin
-        xyz="-0.0572240980964203 -1.43061378500035 0.653734550513117"
+        xyz="-0.0572240980964203 -1.43061378500035 1.023734551"
         rpy="0 0 0" />
       <mass
         value="17434.1065917836" />
@@ -69,7 +70,7 @@
     </inertial>
     <visual>
       <origin
-        xyz="0 0 0"
+        xyz="0 0 1.023734551"
         rpy="0 0 0" />
       <geometry>
         <mesh
@@ -83,7 +84,7 @@
     </visual>
     <collision>
       <origin
-        xyz="0 0 0"
+        xyz="0 0 1.023734551"
         rpy="0 0 0" />
       <geometry>
         <mesh
@@ -283,4 +284,11 @@
       effort="500000"
       velocity="100" />
   </joint>
+
+  <joint name="virtual_joint" type="fixed">
+        <parent link="world"/>
+        <child link="base_link"/>
+        <origin xyz="0 0 0" rpy="0 0 0"/>
+    </joint> 
+    
 </robot>

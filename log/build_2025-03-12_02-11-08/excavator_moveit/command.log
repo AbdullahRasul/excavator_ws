@@ -1,0 +1,6 @@
+Invoking command in '/home/cvl/excavator_ws/build/excavator_moveit': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cvl/excavator_ws/src/excavator_moveit -DCMAKE_INSTALL_PREFIX=/home/cvl/excavator_ws/install/excavator_moveit
+Invoked command in '/home/cvl/excavator_ws/build/excavator_moveit' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/cvl/excavator_ws/src/excavator_moveit -DCMAKE_INSTALL_PREFIX=/home/cvl/excavator_ws/install/excavator_moveit
+Invoking command in '/home/cvl/excavator_ws/build/excavator_moveit': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cvl/excavator_ws/build/excavator_moveit -- -j16 -l16
+Invoked command in '/home/cvl/excavator_ws/build/excavator_moveit' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cvl/excavator_ws/build/excavator_moveit -- -j16 -l16
+Invoking command in '/home/cvl/excavator_ws/build/excavator_moveit': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cvl/excavator_ws/build/excavator_moveit
+Invoked command in '/home/cvl/excavator_ws/build/excavator_moveit' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cvl/excavator_ws/build/excavator_moveit

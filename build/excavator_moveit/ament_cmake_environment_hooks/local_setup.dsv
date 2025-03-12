@@ -1,0 +1,2 @@
+source;share/excavator_moveit/environment/ament_prefix_path.sh
+source;share/excavator_moveit/environment/path.sh

@@ -1,0 +1,29 @@
+[0.012s] Invoking command in '/home/cvl/excavator_ws/build/excavator_moveit': AMENT_PREFIX_PATH=/home/cvl/excavator_ws/install/excavator_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/cvl/excavator_ws/install/excavator_description:/opt/ros/humble /usr/bin/cmake --build /home/cvl/excavator_ws/build/excavator_moveit -- -j16 -l16
+[0.033s] Invoked command in '/home/cvl/excavator_ws/build/excavator_moveit' returned '0': AMENT_PREFIX_PATH=/home/cvl/excavator_ws/install/excavator_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/cvl/excavator_ws/install/excavator_description:/opt/ros/humble /usr/bin/cmake --build /home/cvl/excavator_ws/build/excavator_moveit -- -j16 -l16
+[0.034s] Invoking command in '/home/cvl/excavator_ws/build/excavator_moveit': AMENT_PREFIX_PATH=/home/cvl/excavator_ws/install/excavator_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/cvl/excavator_ws/install/excavator_description:/opt/ros/humble /usr/bin/cmake --install /home/cvl/excavator_ws/build/excavator_moveit
+[0.039s] -- Install configuration: ""
+[0.039s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/launch
+[0.039s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/launch/moveit.launch.py
+[0.039s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/config
+[0.039s] -- Installing: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/config/initial_positions.yaml
+[0.039s] -- Installing: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/config/joint_limits.yaml
+[0.039s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/config/pilz_cartesian_limits.yaml
+[0.039s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/config/kinematics.yaml
+[0.039s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/config/moveit_controllers.yaml
+[0.039s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/config/excavator.srdf
+[0.039s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/ament_index/resource_index/package_run_dependencies/excavator_moveit
+[0.039s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/ament_index/resource_index/parent_prefix_path/excavator_moveit
+[0.039s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/environment/ament_prefix_path.sh
+[0.039s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/environment/ament_prefix_path.dsv
+[0.039s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/environment/path.sh
+[0.039s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/environment/path.dsv
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/local_setup.bash
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/local_setup.sh
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/local_setup.zsh
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/local_setup.dsv
+[0.040s] -- Installing: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/package.dsv
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/ament_index/resource_index/packages/excavator_moveit
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/cmake/excavator_moveitConfig.cmake
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/cmake/excavator_moveitConfig-version.cmake
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/package.xml
+[0.041s] Invoked command in '/home/cvl/excavator_ws/build/excavator_moveit' returned '0': AMENT_PREFIX_PATH=/home/cvl/excavator_ws/install/excavator_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/cvl/excavator_ws/install/excavator_description:/opt/ros/humble /usr/bin/cmake --install /home/cvl/excavator_ws/build/excavator_moveit
