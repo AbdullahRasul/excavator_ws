@@ -154,7 +154,7 @@
     name="chassis_boom_joint"
     type="revolute">
     <origin
-      xyz="0 -0.017409 0.59759"
+      xyz="0 -0.017409 1.618"
       rpy="0 0 0" />
     <parent
       link="base_chassis_link" />

@@ -1,8 +1,17 @@
+/home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/link2.STL
+/home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/battering_ram.STL
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/boom_stick_link.STL
+/home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/wheel4.STL
+/home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/chassis.STL
+/home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/wheel1.STL
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/base_link.STL
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/chassis_boom_link.STL
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/base_chassis_link.STL
+/home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/link1.STL
+/home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/rotary_table.STL
+/home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/wheel2.STL
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/stick_bucket_link.STL
+/home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/wheel3.STL
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/urdf/excavator_gazebo.xacro
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/urdf/excavator.urdf.xacro
 /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/urdf/excavator_ros2_control.xacro

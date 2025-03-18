@@ -1,0 +1,56 @@
+[0.006s] Invoking command in '/home/cvl/excavator_ws/build/excavator_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cvl/excavator_ws/build/excavator_description -- -j16 -l16
+[0.035s] Invoked command in '/home/cvl/excavator_ws/build/excavator_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/cvl/excavator_ws/build/excavator_description -- -j16 -l16
+[0.036s] Invoking command in '/home/cvl/excavator_ws/build/excavator_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cvl/excavator_ws/build/excavator_description
+[0.040s] -- Install configuration: ""
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/link2.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/yg1050_2.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/yg1480_2.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/chandou.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/battering_ram.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/pjjq04.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/yg1480.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/yg1220_1_2.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/wheel4.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/yg1050.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/chassis.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/wheel1.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/base_link.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/cheshen.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/yg1220_1_1.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/pjjq06.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/pjjq03.STL
+[0.040s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/link1.STL
+[0.041s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/rotary_table.STL
+[0.041s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/yg1220_2_1.STL
+[0.041s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/wheel2.STL
+[0.041s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/pjjq05_2.STL
+[0.041s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/yg1220_2_2.STL
+[0.041s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/wheel3.STL
+[0.041s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/meshes/pjjq05_1.STL
+[0.041s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/urdf
+[0.041s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/urdf/excavator_gazebo.xacro
+[0.041s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/urdf/transmission_pudong.xacro
+[0.041s] -- Installing: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/urdf/excavator.urdf.xacro
+[0.041s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/urdf/excavator_ros2_control.xacro
+[0.041s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/launch
+[0.041s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/launch/gazebo.launch.py
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/launch/display.launch.py
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/rviz
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/rviz/excavator_rviz.rviz
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/ament_index/resource_index/package_run_dependencies/excavator_description
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/ament_index/resource_index/parent_prefix_path/excavator_description
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/environment/ament_prefix_path.sh
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/environment/ament_prefix_path.dsv
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/environment/path.sh
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/environment/path.dsv
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/local_setup.bash
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/local_setup.sh
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/local_setup.zsh
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/local_setup.dsv
+[0.042s] -- Installing: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/package.dsv
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/ament_index/resource_index/packages/excavator_description
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/cmake/excavator_descriptionConfig.cmake
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/cmake/excavator_descriptionConfig-version.cmake
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_description/share/excavator_description/package.xml
+[0.052s] Invoked command in '/home/cvl/excavator_ws/build/excavator_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/cvl/excavator_ws/build/excavator_description
