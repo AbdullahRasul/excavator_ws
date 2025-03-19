@@ -1,0 +1,20 @@
+-- Install configuration: ""
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/config
+-- Installing: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/config/excavator_controllers.yaml
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/launch
+-- Installing: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/launch/controller.launch.py
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/ament_index/resource_index/package_run_dependencies/excavator_controller
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/ament_index/resource_index/parent_prefix_path/excavator_controller
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/environment/ament_prefix_path.sh
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/environment/path.sh
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/environment/path.dsv
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/local_setup.bash
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/local_setup.sh
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/local_setup.zsh
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/local_setup.dsv
+-- Installing: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/package.dsv
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/ament_index/resource_index/packages/excavator_controller
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/cmake/excavator_controllerConfig.cmake
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/cmake/excavator_controllerConfig-version.cmake
+-- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/package.xml
