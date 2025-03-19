@@ -2,6 +2,6 @@
 
 initial_positions:
   base_chassis_joint: 0
-  chassis_boom_joint: -0.6
-  boom_stick_joint: -0.7
-  stick_bucket_joint: -2.0
+  chassis_boom_joint: 0
+  boom_stick_joint: 0
+  stick_bucket_joint: 0

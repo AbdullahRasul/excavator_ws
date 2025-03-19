@@ -1,7 +1,7 @@
 /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/launch/moveit.launch.py
+/home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/config/pilz_cartesian.yaml
 /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/config/initial_positions.yaml
 /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/config/joint_limits.yaml
-/home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/config/pilz_cartesian_limits.yaml
 /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/config/kinematics.yaml
 /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/config/moveit_controllers.yaml
 /home/cvl/excavator_ws/install/excavator_moveit/share/excavator_moveit/config/excavator.srdf

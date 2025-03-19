@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
 <robot name="excavator">
+
+    <virtual_joint name="virtual_joint" type="fixed" parent_frame="world" child_link="base_link"/>
 
     <group name="arm">
         <joint name="virtual_joint"/>
@@ -9,18 +9,23 @@
         <joint name="boom_stick_joint"/>
         <joint name="stick_bucket_joint"/>
     </group>
- 
+
     <group_state name="home" group="arm">
         <joint name="base_chassis_joint" value="0"/>
         <joint name="chassis_boom_joint" value="0"/>
         <joint name="boom_stick_joint" value="0"/>
         <joint name="stick_bucket_joint" value="0"/>
     </group_state>
-    
 
+    <disable_collisions link1="base_link" link2="base_chassis_link" reason="Adjacent"/>
     <disable_collisions link1="base_link" link2="chassis_boom_link" reason="Adjacent"/>
+    <disable_collisions link1="base_link" link2="boom_stick_link" reason="Never"/>
+    <disable_collisions link1="base_link" link2="stick_bucket_link" reason="Never"/>
+    <disable_collisions link1="base_chassis_link" link2="chassis_boom_link" reason="Adjacent"/>
+    <disable_collisions link1="base_chassis_link" link2="boom_stick_link" reason="Never"/>
+    <disable_collisions link1="base_chassis_link" link2="stick_bucket_link" reason="Never"/>
     <disable_collisions link1="chassis_boom_link" link2="boom_stick_link" reason="Adjacent"/>
+    <disable_collisions link1="chassis_boom_link" link2="stick_bucket_link" reason="Never"/>
     <disable_collisions link1="boom_stick_link" link2="stick_bucket_link" reason="Adjacent"/>
-
 
 </robot>
