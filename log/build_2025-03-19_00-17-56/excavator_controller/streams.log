@@ -1,0 +1,24 @@
+[0.007s] Invoking command in '/home/cvl/excavator_ws/build/excavator_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/cvl/excavator_ws/build/excavator_controller -- -j16 -l16
+[0.036s] Invoked command in '/home/cvl/excavator_ws/build/excavator_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/cvl/excavator_ws/build/excavator_controller -- -j16 -l16
+[0.037s] Invoking command in '/home/cvl/excavator_ws/build/excavator_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/cvl/excavator_ws/build/excavator_controller
+[0.042s] -- Install configuration: ""
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/config
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/config/excavator_controllers.yaml
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/launch
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/launch/controller.launch.py
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/ament_index/resource_index/package_run_dependencies/excavator_controller
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/ament_index/resource_index/parent_prefix_path/excavator_controller
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/environment/ament_prefix_path.sh
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/environment/ament_prefix_path.dsv
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/environment/path.sh
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/environment/path.dsv
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/local_setup.bash
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/local_setup.sh
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/local_setup.zsh
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/local_setup.dsv
+[0.042s] -- Installing: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/package.dsv
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/ament_index/resource_index/packages/excavator_controller
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/cmake/excavator_controllerConfig.cmake
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/cmake/excavator_controllerConfig-version.cmake
+[0.042s] -- Up-to-date: /home/cvl/excavator_ws/install/excavator_controller/share/excavator_controller/package.xml
+[0.055s] Invoked command in '/home/cvl/excavator_ws/build/excavator_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/cvl/excavator_ws/build/excavator_controller
